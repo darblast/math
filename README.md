@@ -1,3 +1,3 @@
-## Template
+## `@darblast/math`
 
-Clone this repository to get started with a new Darblast module.
+Provides utilities to work with vectors and matrices as efficiently as possible.
